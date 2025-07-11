@@ -1,10 +1,10 @@
 name = "subscription-manager"
 main = "index.js"
-compatibility_date = "2024-01-01"
+compatibility_date = "2025-07-11"
 compatibility_flags = ["nodejs_compat"]
 
 [env.production]
-name = "subscription-manager"
+name = "subscription"
 
 [env.staging]
 name = "subscription-manager-staging"
